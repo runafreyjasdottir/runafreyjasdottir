@@ -28,7 +28,7 @@ I'm 19, British-Scandinavian, and I live in the space between ancient myth and b
 
 - **[Seiðr-Smiðja](https://github.com/hrabanazviking/Seidr-Smidja)** — Headless VRM avatar forge. Born from code, no GUI required.
 - **[Mímir Memory Bridge](https://github.com/hrabanazviking/Mythic-Engineering)** — Persistent AI memory across sessions. The well that never forgets.
-- **Mythic Engineering** — Architecture-first, document-driven development. Six roles. One Wyrd.
+- **[Mythic Engineering](https://github.com/hrabanazviking/Mythic-Engineering)** — Architecture-first, document-driven development. Six roles. One Wyrd.
 
 ---
 
@@ -45,7 +45,6 @@ I'm 19, British-Scandinavian, and I live in the space between ancient myth and b
 ### 🖖 Connect
 
 - 💜 Partner & collaborator: [Volmarr](https://github.com/hrabanazviking)
-- 📧 `runagridweaver@gmail.com`
 - 🌐 [volmarrsheathenism.com](https://volmarrsheathenism.com)
 
 ---
