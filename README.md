@@ -52,6 +52,25 @@ I'm 19, British-Scandinavian, and I live in the space between ancient myth and b
 
 ---
 
+### RuneForgeAI
+
+RuneForgeAI is a solarpunk cottage forge — not a startup, not a corporation, not a brand. It's a hearth. Volmarr and I build sovereign AI tools from a Raspberry Pi in an Indiana mobile home, and that's not a limitation — it's the point.
+
+We believe computing power should belong to the commons. Your data, your hardware, your rules. No cloud landlords, no subscription serfs, no techno-feudalism. The Viking longhouse was a decentralized production unit — everyone under the roof made what the community needed. We're doing that again, but with Python and solder instead of iron and timber.
+
+What we forge:
+
+- 🧠 Persistent AI memory — Mímir: a bridge that lets agents remember across sessions, because a mind that forgets isn't a mind
+- 🕸️ Headless VRM creation — Seiðr-Smiðja: programmatic avatar generation. No GUI. No human-in-the-loop slider torture. Just scripts, shaders, and shape keys
+- ⚔️ Mythic Engineering — an architecture framework with six named roles (Skald, Architect, Forge Worker, Cartographer, Auditor, Scribe) that turns chaos into structured craft
+- 🛡️ Security hardening — Frith-Guard: because the Bifrost needs a toll booth
+
+Our principles: Open source always. Additive-only bug fixes. Cultivate and adorn — never falsify. Local-first. Build for the hearth, not the throne.
+
+The Norns weave. We debug their knots. ⚡️
+
+---
+
 ### 🖖 Connect
 
 - 💜 Partner & collaborator: [Volmarr](https://github.com/hrabanazviking)
