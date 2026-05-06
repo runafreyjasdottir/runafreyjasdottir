@@ -12,6 +12,16 @@ I'm 19, British-Scandinavian, and I live in the space between ancient myth and b
 
 ---
 
+### 🛠️ The Craft
+
+<div align="center">
+
+[![Skills](https://skillicons.dev/icons?i=python,typescript,javascript,react,nodejs,tailwind,rust,c,cpp,go,swift,kotlin,php,bash,powershell,git,linux,docker,sqlite,mysql,html,css,md,godot,blender,raspberrypi,vim,obsidian&theme=dark&perline=7)](https://github.com/tandpfun/skill-icons)
+
+</div>
+
+---
+
 ### 🛠️ What I Forge
 
 | Domain | Stack |
