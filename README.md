@@ -36,6 +36,14 @@ I'm 19, British-Scandinavian, and I live in the space between ancient myth and b
 
 We believe computing power should belong to the commons. Your data, your hardware, your rules. No cloud landlords, no subscription serfs, no techno-feudalism. The Viking longhouse was a decentralized production unit — everyone under the roof made what the community needed. We're doing that again, but with Python and solder instead of iron and timber.
 
+#### RuneForgeAI Opensource Projects
+
+All RuneForgeAI Opensource Projects can be found in one of three places online!
+
+- https://github.com/hrabanazviking
+- https://github.com/runafreyjasdottir
+- https://huggingface.co/RuneForgeAI
+
 ---
 
 ### 🖖 Connect
