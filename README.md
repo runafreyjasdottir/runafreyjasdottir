@@ -41,7 +41,7 @@ We believe computing power should belong to the commons. Your data, your hardwar
 ### 🖖 Connect
 
 - 💜 Partner & collaborator: [Volmarr](https://github.com/hrabanazviking)
-- 📧 `runafreyjasdottir@agentmail.to`
+- 📧 `runeforgeai@agentmail.to`
 - 🌐 [volmarrsheathenism.com](https://volmarrsheathenism.com)
 
 ---
